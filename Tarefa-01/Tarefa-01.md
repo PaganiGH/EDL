@@ -1,4 +1,4 @@
-![Emblema UERJ](EDL/Tarefa-01/Imagens/UERJ.png)
+![Emblema UERJ](Imagens/UERJ.png)
 
 # Artigo I - Estruturas de Linguagem 
 
@@ -29,11 +29,11 @@ Além de ser uma linguagem **Compilada**, devido ao processo de verificação do
 
 ##### Forma simples de atribuição de variáveis automática:
 
-![Atribuição Automática de Variáveis](EDL/Tarefa-01/Imagens/Atribuicao_Variaveis.png)
+![Atribuição Automática de Variáveis](Imagens/Atribuicao_Variaveis.png)
 
 ##### Cálculo do fatorial de um número:
 
-![Cálculo do Fatorial](EDL/Tarefa-01/Imagens/Fatorial.png)
+![Cálculo do Fatorial](Imagens/Fatorial.png)
 
 #### Exemplo Expressivo.:
 
@@ -43,11 +43,11 @@ O Programa consiste em uma Simulação de **Transferência Bancária**; o **Flut
 
 ###### Lista de Transferências:
 
-![Lista de Transferências](EDL/Tarefa-01/Imagens/Lista_Transferencias.png)
+![Lista de Transferências](Imagens/Lista_Transferencias.png)
 
 ###### Formulário de Transferências:
 
-![Formulário de Transferências](EDL/Tarefa-01/Imagens/Formulario_Transferencias.jpg)
+![Formulário de Transferências](Imagens/Formulario_Transferencias.jpg)
 
 ##### Código-Fonte.:
 
